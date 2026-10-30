@@ -356,6 +356,8 @@ Upload to GitHub Pages for free hosting.
 
 ## style.css
 
+~~~
+
 
 /* ==================================
    GENVY - CSS FLEXBOX SHOPPING WEBSITE
@@ -1239,6 +1241,9 @@ input {
         gap: 10px;
     }
 }
+
+
+~~~
 
 
 ## OUTPUT
